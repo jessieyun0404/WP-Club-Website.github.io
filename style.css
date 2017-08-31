@@ -13,7 +13,7 @@ body {
 /** Header styles **/
 
 .header {
-  background-image: url(https://lh3.googleusercontent.com/Kholw2n42eIVOyB_5f-APB7TLcjUlYP0RbfnXci-MuoWkuiOF52B6x3xUhNFmdJtIGgFkFieP2K5Uf8=w1280-h914-rw);
+  background-image: url(https://lh4.googleusercontent.com/TIm7LA76nSLkrkT6gK5FSgmWJloHvhxTSmQlAqkB_5yrkzzunvy2kmodHjj61Y0IhRJ8kTQuu2JdISQ=w1280-h914-rw);
   height : 700px;
   background-size : cover;
   background-position: center;
@@ -21,7 +21,7 @@ body {
 
 
 header {
-  padding: 50px 0;
+  padding: 30px 0;
 }
 header .row,
 footer .row {
