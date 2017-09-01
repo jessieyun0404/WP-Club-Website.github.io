@@ -13,9 +13,8 @@
  /** Header styles **/
   
   .header {
-    background-image: url(https://lh6.googleusercontent.com/vyKPPct-yTIQnGNntGo3ZkHupqR3hAF2S2O-MdwWY4ztV6FwTMTaSJMopr5RZQoWnRyv2Bm0HBXozF4=w725-h865-rw);
- -  height : 500px;
- +  height : 700px;
+    background-image: url(https://i.imgur.com/0SV7izB.jpg);
+    height : 700px;
     background-size : cover;
     background-position: center;
   }
