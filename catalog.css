@@ -1,14 +1,14 @@
 body {
-  padding: 0;
-  margin: 0;
-  background: #f7f7f7;
-  /* Old browsers */
-  background: -moz-linear-gradient(45deg, #44d9e6 0%, #52eec3 100%);
-  /* FF3.6-15 */
-  background: -webkit-linear-gradient(45deg,#44d9e6 0%, #52eec3 100%);
-  /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(45deg, #44d9e6 0%, #52eec3 100%);
-}
+   padding: 0;
+   margin: 0;
+   background: #f7f7f7;
+   /* Old browsers */
+   background: -moz-linear-gradient(45deg, #3d165e 0%, #596dd0 100%);
+   /* FF3.6-15 */
+   background: -webkit-linear-gradient(45deg, #3d165e 0%, #596dd0 100%);
+   /* Chrome10-25,Safari5.1-6 */
+   background: linear-gradient(45deg, #3d165e 0%, #596dd0 100%);
+ }
 
 /** Header styles **/
 
