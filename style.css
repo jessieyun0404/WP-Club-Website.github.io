@@ -19,6 +19,9 @@ body {
   background-position: center;
 }
 
+.col-sm-8 {
+    padding: 50px;
+}
 
 *,
 *:after,
